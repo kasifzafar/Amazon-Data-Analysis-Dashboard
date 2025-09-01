@@ -29,3 +29,5 @@ The objective of this project is to design an interactive Power BI dashboard tha
 - Which customer City show the highest purchasing frequency?
 
 - Are there any high-return or low-performing products ?
+
+- Dashboard Interaction :- <a href="https://github.com/kasifzafar/Amazon-Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png">View Dashboard</a>
