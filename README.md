@@ -1,4 +1,4 @@
-# Amazon Sales Performance Dashboard
+# Amazon Sales Performance Dashboard using ( EXCEL & POWER BI )
 
 ## Project Objective
 
@@ -31,3 +31,28 @@ The objective of this project is to design an interactive Power BI dashboard tha
 - Are there any high-return or low-performing products ?
 
 - Dashboard Interaction :- <a href="https://github.com/kasifzafar/Amazon-Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png">View Dashboard</a>
+
+# TOOL USED
+
+- Excel
+- Power BI
+
+## PROCESS
+
+## 1. Data Collection
+
+## 2. Data Cleaning & Preparation
+
+## 3. Data Modeling
+
+## 4. Dashboard Design
+
+## 5. Validation & Testing
+
+## 6. Deployment & Documentation
+
+
+# DASHBOARD
+<img width="1425" height="803" alt="Screenshot 2025-09-01 132510" src="https://github.com/user-attachments/assets/d4b9a0b7-3c4d-4ce4-8cf5-1168dfa57270" />
+
+
